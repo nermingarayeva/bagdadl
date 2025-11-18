@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Ana Səhifə / Home / Главная -->
+  <url>
+    <loc>https://bagdad.com.az/</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+   <url>
+  <loc>https://bagdad.com.az/products</loc>
+  <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/products" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/products" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/products" />
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://bagdad.com.az/blogs</loc>
+  <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/blogs" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/blogs" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/blogs" />
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://bagdad.com.az/campaigns</loc>
+  <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/campaigns" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/campaigns" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/campaigns" />
+  <priority>0.8</priority>
+</url>
+  <url>
+    <loc>https://bagdad.com.az/en</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/ru</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Haqqımızda / About / О нас -->
+  <url>
+    <loc>https://bagdad.com.az/about</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/about" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/about" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/ru/about</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/about" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Xidmətlər / Services / Услуги -->
+  <url>
+    <loc>https://bagdad.com.az/services</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/services" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/en/services</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/services" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/ru/services</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/services" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Əlaqə / Contact / Контакт -->
+  <url>
+    <loc>https://bagdad.com.az/contact</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/contact" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/contact" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagdad.com.az/ru/contact</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://bagdad.com.az/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagdad.com.az/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagdad.com.az/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagdad.com.az/contact" />
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

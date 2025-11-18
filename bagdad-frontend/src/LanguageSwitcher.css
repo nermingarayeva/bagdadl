@@ -1,0 +1,101 @@
+/* LanguageSwitcher.css */
+
+/* Dropdown container */
+.lang-switch {
+  display: inline-block;
+}
+
+/* Dropdown toggle button - spesifik class istifadə edirik */
+.lang-switch .dropdown-toggle {
+  padding: 4px 10px;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #43280ab6 !important;
+  color: white !important;
+  transition: all 0.3s ease;
+  min-width: 50px;
+  box-shadow: none !important;
+}
+
+/* Hover, focus, active və show state-ləri */
+.lang-switch .dropdown-toggle:hover,
+.lang-switch .dropdown-toggle:focus,
+.lang-switch .dropdown-toggle:active,
+.lang-switch .dropdown-toggle.show {
+  background-color: #43280ab6 !important;
+  color: white !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+/* Dropdown menyu */
+.lang-switch .dropdown-menu {
+  min-width: 50px;
+  padding: 4px 0;
+  border-radius: 6px;
+  margin-top: 4px;
+}
+
+/* Dropdown item-ləri */
+.lang-switch .dropdown-menu .dropdown-item {
+  padding: 5px 10px;
+  font-size: 12px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  transition: background-color 0.2s ease;
+}
+
+/* Dropdown item hover */
+.lang-switch .dropdown-menu .dropdown-item:hover {
+  background-color: #f5f5dc;
+  color: black;
+}
+
+/* Dropdown item active state */
+.lang-switch .dropdown-menu .dropdown-item.active,
+.lang-switch .dropdown-menu .dropdown-item:active {
+  background-color: #f5f5dc !important;
+  color: black !important;
+}
+
+/* Tablet və kiçik ekranlar */
+@media (max-width: 768px) {
+  .lang-switch .dropdown-toggle {
+    padding: 3px 8px;
+    font-size: 11px;
+    min-width: 45px;
+  }
+  
+  .lang-switch .dropdown-menu {
+    min-width: 45px;
+  }
+  
+  .lang-switch .dropdown-menu .dropdown-item {
+    padding: 4px 8px;
+    font-size: 11px;
+  }
+}
+
+/* Mobil telefonlar */
+@media (max-width: 480px) {
+  .lang-switch .dropdown-toggle {
+    padding: 3px 7px;
+    font-size: 10px;
+    min-width: 40px;
+    border-radius: 5px;
+  }
+  
+  .lang-switch .dropdown-menu {
+    min-width: 40px;
+  }
+  
+  .lang-switch .dropdown-menu .dropdown-item {
+    padding: 3px 7px;
+    font-size: 10px;
+  }
+}
